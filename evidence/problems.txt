@@ -1,75 +1,83 @@
 November 28, 2016
 
+COMMUNICATIONS
+
 - Unidirectional communications by nature avoid important feedback
--- TV, Radio, SMS messages
--- Cellular phone towers "natural" failure had to be fixed (some of them flooded).
--- Phone emergency recharge stations provided, but what about people's phone accounts?  
-   They will expire and people has no home to return to.
-ñ Some ìfakeî and other ìuntrustworthyî emergency information making very complicated 
+-- TV, Radio, SMS
+
+- Cellular phone towers "natural" failure had to be fixed (some of them flooded).
+- Phone emergency recharge stations provided, but what about people's phone accounts?  
+  They will expire and people has no home to return to.
+- Some “fake” and other "untrustworthy" emergency information making very complicated 
   to deal with the real situations.
  
 
-- Organizational failure
--- Some work was delegated, but was not possible to guarantee how complaint the work 
-   was performed
--- Early management advise but Late application in some areas.
--- Some people wanted to help but they were stopped because the corresponding information 
-   about ìhowî to manage this type of help was not available (was not expected to receive 
-   external help).
-ñ Lack of education for the general population about ìhowî to help.  Some donations are 
+ORGANIZATIONAL FAILURE
+
+- Some work was delegated, but was not possible to guarantee how complaint the work 
+  was performed
+- Early management advise but Late application in some areas.
+- Some people wanted to help but they were stopped because the corresponding information 
+  about "how" to manage this type of help was not available (was not expected to receive 
+  external help).
+- Lack of education for the general population about "how" to help.  Some donations are 
   useless because of their nature and/or condition.
-ñ Food has been collected but it was not being promptly delivered, in particular because 
-  the quantity of refuge sites was not enough and was necessary to ìimproviseî new places 
+- Food has been collected but it was not being promptly delivered, in particular because 
+  the quantity of refuge sites was not enough and was necessary to "improvise" new places 
   (authorities didn't know that people was located in these places).
-ñ Was not possible to know how much people was located in each disaster place (rescue people 
-  was very worried because they found empty houses destroyed and didn't know if somebody was 
-  there).
+- Was not possible to know how much people was located in each disaster place (rescue 
+  people was very worried because they found empty houses destroyed and didn't know if
+  somebody was there).
 
-- Geographical change
-ñ The initial Hurricane overflow has been increased with regular rains.
-ñ Rivers capacity is different.
-ñ There are modifications about how the terrain is working (what is and what is not a safe 
-  place to stay).  It is impossible to fix things the way they were before the hurricane arrived.
+GEOGRAPHICAL CHANGE
 
-- Side effects
--- At least one shelter place had children with diarrhea (consequence of overcrowding) ... could 
-   be possible to reorganize these places?
--- There is a generalized "terror" feeling about more problems because of the overflow rivers 
-   and landslides.  There are many information sources and this confuses the people.
+- The initial hurricane overflow has been increased with regular rains.
+- Rivers capacity is different.
+- There are modifications about how the terrain is working (what is and what is not a
+  safe place to stay).  It is impossible to fix things the way they were before the
+  hurricane arrived.
+
+SIDE EFFECTS
+
+- At least one shelter place had children with diarrhea (consequence of overcrowding) ... 
+  could be possible to reorganize these places?
+- There is a generalized "terror" feeling about more problems because of the overflow 
+  rivers and landslides.  There are many information sources and this confuses the 
+  people.
 
 November 30, 2016
 
-- Human Resources
--- There was a problen with a Vice-minister participating in a party while the Hurricane was 
-   destroying Upala and the President was trying to coordinate the government work.  Independently 
-   of the particular issue, the key here is that there is no centralized database with the people 
-   experience and knowledge, what they could work on during this type of emergencies and what are 
-   they doing in the emergency time.  And this human database doesn't need to be limited to government 
-   officials, it can include the private sector also.
+HUMAN RESOURCES
 
-- External Factors
--- (without any type of confirmation), could be possible that more than the Hurricane was responsible 
-   for the big flood in Upala zone.  In particular it seems that a DAM was opened approximately at the 
-   same time the Zapote river was overflooding, so the water was moving counter current (an extremely 
-   rare condition), causing unexpected side effects.  This produces some important points to take into 
-   consideration:
---- Lack of list with tasks that must be observed for each type of situation (opening 
-    a DAM "on the right time").  This includes a catalog for sensitive public or private activities.
---- Lack of confirmation that an important task was performed.
---- Lack of studies about consequences for regular tasks on abnormal situations (when not to do 
-    something).
---- Lack of advice for inhabitants that could suffer consequences for some tasks.
---- When something "strange" happens, must be a way to collect all possible information about the 
-    particular issue.
---- Lack of "sensors" that could trigger some type of alarm on dangerous places.
+- There was a problem with a Vice-minister participating in a party while the Hurricane 
+  was destroying Upala and the President was trying to coordinate the government work.    
+  Independently of the particular issue, the key here is that there is no centralized 
+  database with the people experience and knowledge, what they could work on during this 
+  type of emergencies and what are they doing in the emergency time.  And this human 
+  database doesn't need to be limited to government officials, it can include the private 
+  sector also.
 
-- Accounting
--- Deloitte will perform an auditing on the dissaster activities.  So, the data must be very well 
-   tabulated.
+EXTERNAL FACTORS
 
+- (Because a rumor - without any type of confirmation), could be possible that more than
+  the Hurricane was responsible for the big flood in Upala zone.  In particular it seems 
+  that a DAM was opened approximately at the same time the Zapote river was overflooding, 
+  so the water was moving counter current (an extremely rare condition), causing 
+  unexpected side effects.  This produces some important points to take into 
+  consideration:
+-- Lack of list with tasks that must be observed for each type of situation (opening 
+   a DAM "in the right time").  This includes a catalog for sensitive public or private 
+   activities.
+-- Lack of confirmation that an important task was performed.
+-- Lack of studies about consequences for regular tasks on abnormal situations (when not 
+   to do something).
+-- Lack of advice for inhabitants that could suffer consequences for some tasks.
+-- When something "strange" happens, must be a way to collect all possible information 
+   about the particular issue.
+-- Lack of "sensors" that could trigger some type of alarm on dangerous places.
 
+ACCOUNTING
 
-
-
-
+- Deloitte will perform an auditing on the disaster activities.  So, the data must be very 
+  well tabulated.
 

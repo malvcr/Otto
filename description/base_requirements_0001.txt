@@ -1,0 +1,93 @@
+V1 (December 1, 2016)
+
+According with the "evidence" material, an Otto System must accomplish these types
+of requirements:
+
+
+COMMUNICATIONS
+
+- Must be multidirectional (authorities to citizen, and citizen to authorities).
+- Must be distributed, where each "cell" must survive independently if all the other cells 
+  fail, but where the surviving ones must actively "find the way" to communicate each with 
+  the other.
+- Any person must be able to report emergency and/or abnormal situations.
+
+TRUST
+
+- Each "participant" must have some type of signature being impossible to forfeit, and
+  every piece of information must be signed.
+- The information must include some "labeling" describing how trustworthy could be (it is
+  a rumor to be verified, or is something that has been certified).
+- Every action, and registration of information must produce an auditable track.
+- Some information could be "private", but be able to be "released" by a superior
+  authority with the corresponding advise to the information owner.
+- Every communication and registration will be defined around special security protocols
+  and practices.
+
+
+DELEGATION
+
+- Total control of delegated tasks.  The one delegates a task must receive a confirmation
+  that the task has been performed, and that "delegation" can include a "quality check"
+  provided by a different person than the one is confirming the task accomplishment. 
+- The delegated tasks can have sub-delegated tasks, that will sum their "state" to the
+  main levels, to have a "real" grade of accomplishment.
+  
+VOLUNTEERING and HUMAN RESOURCES
+
+- The individuals must be able to report their capacity to perform different tasks, and
+  how available are them.  For some tasks a confirmation must be included (by a third 
+  party).
+- A "voluntary guide" must be prepared to instruct the people what is the right method to
+  offer help.  But this must be able to change according with the real situations.
+- The people's capacity, together with what they can and "must" do, needs to be located on
+  human resource's catalogs.  These catalogs must be shared between locations to improve
+  their usage (and when somebody is performing some task, it must be registered there).
+
+DONATIONS
+
+- A "live" catalog must guide all possible type, quality and quantity of the donations.
+- Each cataloged item must have a "minimum" quality level to be accepted and tabulated.
+- There is an inventory based on the catalog.
+
+DYNAMIC SHELTERS
+
+- There is a set of official shelters, but also new places can be converted on shelters
+  when necessary (in general each house "is" a shelter, the difference is that some people
+  is not located in their own homes during the emergency period).
+- Every shelter must be included as destination for items in the inventory.
+- The shelters must be in pre and post emergency situation (the first one is preventive
+  but the second one could be active more time if the people's houses can't be easily
+  recovered).
+- As the shelters are part of a "net", they must share their current capacity, state, 
+  safety level, current usage and facilities, to improve the are usad (some overcrowded, 
+  others empty ... some with paramedics, others with doctors ... some near where it is 
+  possible to arrive walking, others far or after valleys, so helicopters must be used ...
+  etc.).
+
+DYNAMIC GEOGRAPHY
+
+- According with the disaster type, it is possible that the geographical, safety and
+  resource locations previously known can't be trusted anymore.  The system must be able
+  to "mutate" to new conditions when enough information about them it is available.
+
+TASKS
+
+- Task templates according with particular possible situations must be created.
+- Then, a catalog with possible situations must be related with those templates.
+- When an emergency situation arises, real-time data must trigger these templates and
+  how the situation evolves must be registered for (1) deciding on further actions and/or
+  (2) dispatch automatic tasks (can be operational or informative).
+  
+- The situations catalog can't be static and must be updated with information about their 
+  current state.  The information for that updating can have different sources, some with
+  more or less trust grade, but all the information must be registered.  Some of these
+  sources can be human, others could be sensors or even other systems with their
+  calculations.
+
+- Inhabitants must have early information about what to do in particular cases, and
+  constantly updated information depending on how the related emergency situations 
+  evolve (in some cases, the information must trigger SPEAKERS with audible noises or
+  visible alarms whose meaning is already known by the inhabitants).
+
+
