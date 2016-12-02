@@ -1,5 +1,8 @@
 V1 (December 1, 2016)
 
+- Updated December 2, 2016
+
+
 According with the "evidence" material, an Otto System must accomplish these types
 of requirements:
 
@@ -24,6 +27,20 @@ TRUST
 - Every communication and registration will be defined around special security protocols
   and practices.
 
+QUALITY INFORMATION
+
+- All pertinent studies must be available to everybody, particularly related with the
+  “local” zones.
+- All pertinent regulatory efforts must be communicated to the people that could suffer
+  any type of side effect, in the case of an emergency situation.  Also it is important
+  to include the “status” for these efforts and who is responsible to make them to
+  advance (and why they are not advancing in the case there is no improvement in their
+  application).
+- All the information must include a date, an origin, a responsible person (or device),
+  together with some type of “expiration” date.  It is advisable that the expired 
+  information must be renewed and/or confirmed, and these actions also must be
+  accompanied by a responsible entity whose qualities could be checked by any other
+  person.
 
 DELEGATION
 
@@ -32,6 +49,12 @@ DELEGATION
   provided by a different person than the one is confirming the task accomplishment. 
 - The delegated tasks can have sub-delegated tasks, that will sum their "state" to the
   main levels, to have a "real" grade of accomplishment.
+- The destination for the delegated task must demonstrate what capabilities an resources
+  are available to perform the tasks.  That information must be “current” and some actor
+  must be able to verify it.  If the capabilities are not enough the task can’t be
+  delegated, or a “failure state” must be designated (in the emergency, won’t be possible
+  to guarantee the quality of the task).  This information must be in the hands of 
+  everybody could be harm because of the lack of capability.
   
 VOLUNTEERING and HUMAN RESOURCES
 
