@@ -1,6 +1,7 @@
 V1 (December 1, 2016)
 
-- Updated December 2, 2016
+- Updated December  2, 2016
+- Updated December 29, 2016
 
 
 According with the "evidence" material, an Otto System must accomplish these types
@@ -41,6 +42,16 @@ QUALITY INFORMATION
   information must be renewed and/or confirmed, and these actions also must be
   accompanied by a responsible entity whose qualities could be checked by any other
   person.
+
+- It is very important to know the situation before and after the event.  Because the
+  help directed for the event can’t be diverted from the event to resolve already
+  existing problems.  So, a continuously updated situation registration must separate
+  descriptions and characteristics according with:
+
+  - The human dimension.
+  - Basic infrastructure.
+  - Production infrastructure.
+  - Other elements.
 
 DELEGATION
 

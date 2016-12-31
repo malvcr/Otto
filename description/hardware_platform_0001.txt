@@ -1,0 +1,46 @@
+WIFI Network
+
+- The first option is to assemble a distributed WIFI network around the central
+  population centers.
+- This is NOT a public network, but an emergency network opened to public emergency
+  nodes.  It is important to make this differentiation to separate other non 
+  important usages and external "destructive hacking".
+- WIFI, as a protocol is not powerful enough to cover very big areas, so the NODES
+  must be capable to act as range extensors, and it is important to have good 
+  quality antenas and powerful WIFI adapters, in particular when they are on open
+  areas.
+   
+WHY NOT INTERNET
+
+- The Internet is a very helpful resource when it works, but in many places it
+  depends on service providers (i.e. centralized infrastructure).
+- In this case, the infrastructure must be bullet-proof, so it is not possible to have
+  a dependency on central data axis points.  It must 100% distributed where each "zone"
+  must survive by itself.
+  
+WHAT TO DO ON INTERNET
+
+- When the Internet is available, the security nodes can work as data clusters that can
+  share information on very long distances immediately.  However, enough routing 
+  capacity must be present to offer the same functionality without the Internet.
+  
+---
+
+SMALL SBC (Single Board Computers)
+
+- They must be energy efficient, so PCs are discarded.
+- They must be small.
+- They must be cheap enough to guarantee distribution and replacement when necessary
+  (to replace them must be cheaper than to fix them, and less than $100).
+  
+OPERATING SYSTEM
+
+- Highly available for several SBC machines (no mather what CPU the use).
+- Zero cost
+- It seems Linux is the only option
+
+DATABASE
+
+- Could be a custom open source database if necessary.
+- As the NODES will be distributed, it must be maintenance-free.
+- Needs to be replicated for the data to survive critical failures.
